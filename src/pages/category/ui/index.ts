@@ -1,0 +1,1 @@
+export {Category as CategoryPage} from './CategoryPage/CategoryPage'
