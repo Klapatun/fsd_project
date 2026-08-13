@@ -1,5 +1,5 @@
 import { Outlet } from "react-router"
-import { Footer, Icon } from "../../shared"
+import { Footer, Icon } from "@/shared/ui"
 
 export const Layout = () => {
     return <div>
